@@ -1,6 +1,6 @@
 <?php
 
-namespace Bread\Ory\Contracts\Client;
+namespace BB\Ory\Contracts\Client;
 
 use Ory\Client\Api\FrontendApi;
 use Ory\Client\Api\IdentityApi;

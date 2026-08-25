@@ -2,7 +2,7 @@
     "name": "breadbunch/ory-contracts",
     "description": "A set of contracts (interfaces) for Ory services (Kratos, Hydra, Keto, Oathkeeper)",
     "type": "library",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "homepage": "https://github.com/BreadBunch/ory-contracts",
     "license": "GPL-3.0-or-later",
     "require": {
@@ -14,7 +14,7 @@
     "autoload-dev": {},
     "autoload": {
         "psr-4": {
-            "Bread\\Ory\\Contracts\\": "src/"
+            "BB\\Ory\\Contracts\\": "src/"
         }
     },
     "config": {

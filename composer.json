@@ -1,5 +1,5 @@
 {
-    "name": "bread/ory-contracts",
+    "name": "breadbunch/ory-contracts",
     "description": "A set of contracts (interfaces) for Ory services (Kratos, Hydra, Keto, Oathkeeper)",
     "type": "library",
     "version": "0.1.0",
